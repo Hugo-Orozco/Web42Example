@@ -1,0 +1,9 @@
+Terminal Commands:
+
+ls is list
+mkdir is make directory (think of a directory as a folder)
+cd is change directory
+pwd is print working directory
+. also refers to the working directory
+touch is used to create a new file
+code opens files or directories in VSCode
